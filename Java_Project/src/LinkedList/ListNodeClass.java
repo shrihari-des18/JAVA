@@ -9,6 +9,7 @@ class Node{
         this.val = val;
     }
 }
+
 public class ListNodeClass {
     Scanner sc = new Scanner(System.in);
     public static void print(Node head) {
