@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6980afb7-8517-4749-b466-beb2e9f24a4d" name="Changes" comment="Progress updated">
+    <list default="true" id="6980afb7-8517-4749-b466-beb2e9f24a4d" name="Changes" comment="Initial commit">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_Project/src/LinkedList/ListNodeClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Project/src/LinkedList/ListNodeClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_Project/src/LinkedList/Singly.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Project/src/LinkedList/Singly.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +21,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Telusko/Quiz-Console-App" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -33,7 +32,7 @@
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/geekyhari/JAVA.git&quot;,
+    &quot;url&quot;: &quot;https://github.com/geekyhari/Quiz-Console-App.git&quot;,
     &quot;accountId&quot;: &quot;94230857-bc3b-4af4-900b-c15d14b1e332&quot;
   }
 }</component>
@@ -55,95 +54,103 @@
     <option name="showLibraryContents" value="true" />
     <option name="sortKey" value="BY_TIME_ASCENDING" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;Application.Abstraction.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArrayList.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BAsics.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Bank.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Basics.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Binary_Search.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CF.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Captcha.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CipherGenerator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Circular.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Class.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CollectionFramework.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Comparator_Comparable.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Constructor.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Custom_Exceptions.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Dynamic_method_Dispatch.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Enum.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Enum_Class.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exceptions.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FirstLastPosnofElemnt.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Inheritance.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Interfaces.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lambda.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ListNodeClass.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LowerBound.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Methods.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Need_for_Interfaces.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Operations.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Optional.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Optional_class.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Overridekeyword.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Paralel_Stream.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PasswordGenerator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PeakIndex.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Practice_1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Push_at_Bottom.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Race_Condition.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Random.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RandomNos.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Reference.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Reverse.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Runnables.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Singly.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SqrtofX.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SuperKeyword.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Thread_Priority_Sleep.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Threads.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Throw_keyword.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Throws_keyword.executor&quot;: &quot;Run&quot;,
-    &quot;Application.UpperBound.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Using_Arraylist.executor&quot;: &quot;Run&quot;,
-    &quot;Application.factorial.executor&quot;: &quot;Run&quot;,
-    &quot;Application.helloworld.executor&quot;: &quot;Run&quot;,
-    &quot;Application.multi_5_7.executor&quot;: &quot;Run&quot;,
-    &quot;Application.statickeyword.executor&quot;: &quot;Run&quot;,
-    &quot;Application.type_cast.executor&quot;: &quot;Run&quot;,
-    &quot;Application.updatingvariables.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/shrih/OneDrive - kletech.ac.in/JAVA&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.inline.completion&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.Abstraction.executor": "Run",
+    "Application.ArrayList.executor": "Run",
+    "Application.BAsics.executor": "Run",
+    "Application.Bank.executor": "Run",
+    "Application.Basics.executor": "Run",
+    "Application.Binary_Search.executor": "Run",
+    "Application.CF.executor": "Run",
+    "Application.Captcha.executor": "Run",
+    "Application.CipherGenerator.executor": "Run",
+    "Application.Circular.executor": "Run",
+    "Application.Class.executor": "Run",
+    "Application.CollectionFramework.executor": "Run",
+    "Application.Comparator_Comparable.executor": "Run",
+    "Application.Constructor.executor": "Run",
+    "Application.Custom_Exceptions.executor": "Run",
+    "Application.Dynamic_method_Dispatch.executor": "Run",
+    "Application.Enum.executor": "Run",
+    "Application.Enum_Class.executor": "Run",
+    "Application.Exceptions.executor": "Run",
+    "Application.FirstLastPosnofElemnt.executor": "Run",
+    "Application.HappyNumber.executor": "Run",
+    "Application.Inheritance.executor": "Run",
+    "Application.Interfaces.executor": "Run",
+    "Application.Lambda.executor": "Run",
+    "Application.ListNodeClass.executor": "Run",
+    "Application.LowerBound.executor": "Run",
+    "Application.Methods.executor": "Run",
+    "Application.Need_for_Interfaces.executor": "Run",
+    "Application.Operations.executor": "Run",
+    "Application.Optional.executor": "Run",
+    "Application.Optional_class.executor": "Run",
+    "Application.Overridekeyword.executor": "Run",
+    "Application.Paralel_Stream.executor": "Run",
+    "Application.PasswordGenerator.executor": "Run",
+    "Application.PeakIndex.executor": "Run",
+    "Application.Practice_1.executor": "Run",
+    "Application.Push_at_Bottom.executor": "Run",
+    "Application.Race_Condition.executor": "Run",
+    "Application.Random.executor": "Run",
+    "Application.RandomNos.executor": "Run",
+    "Application.Reference.executor": "Run",
+    "Application.RemoveNthNodeFromLast.executor": "Run",
+    "Application.Reverse.executor": "Run",
+    "Application.Runnables.executor": "Run",
+    "Application.SecondLargestElement.executor": "Run",
+    "Application.Singly.executor": "Run",
+    "Application.Sll.executor": "Run",
+    "Application.SqrtofX.executor": "Run",
+    "Application.SuperKeyword.executor": "Run",
+    "Application.SwapNodes.executor": "Debug",
+    "Application.Test.executor": "Run",
+    "Application.Thread_Priority_Sleep.executor": "Run",
+    "Application.Threads.executor": "Run",
+    "Application.Throw_keyword.executor": "Run",
+    "Application.Throws_keyword.executor": "Run",
+    "Application.UpperBound.executor": "Run",
+    "Application.Using_Arraylist.executor": "Run",
+    "Application.XPowerN.executor": "Run",
+    "Application.factorial.executor": "Run",
+    "Application.helloworld.executor": "Run",
+    "Application.multi_5_7.executor": "Run",
+    "Application.statickeyword.executor": "Run",
+    "Application.type_cast.executor": "Run",
+    "Application.updatingvariables.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "full.screen.before.presentation.mode": "false",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/shrih/OneDrive - kletech.ac.in/JAVA",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "configurable.group.editor",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.25557.131" />
-        <option value="bundled-js-predefined-d6986cc7102b-b598e85cdad2-JavaScript-IU-252.25557.131" />
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.27397.103" />
+        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-IU-252.27397.103" />
       </set>
     </attachedChunks>
   </component>
@@ -201,6 +208,22 @@
       <workItem from="1757183593217" duration="617000" />
       <workItem from="1757191466728" duration="245000" />
       <workItem from="1757253712893" duration="328000" />
+      <workItem from="1757341473853" duration="828000" />
+      <workItem from="1758436687288" duration="10124000" />
+      <workItem from="1758530381673" duration="3460000" />
+      <workItem from="1758589495860" duration="664000" />
+      <workItem from="1758739300134" duration="322000" />
+      <workItem from="1758984016203" duration="2260000" />
+      <workItem from="1759389192416" duration="3000" />
+      <workItem from="1759476795550" duration="6371000" />
+      <workItem from="1759821685013" duration="648000" />
+      <workItem from="1759822592053" duration="11000" />
+      <workItem from="1759822643710" duration="530000" />
+      <workItem from="1760191770716" duration="585000" />
+      <workItem from="1763213307228" duration="1642000" />
+      <workItem from="1763214995303" duration="1035000" />
+      <workItem from="1763216057050" duration="1159000" />
+      <workItem from="1763217272415" duration="299000" />
     </task>
     <task id="LOCAL-00001" summary="Commit message">
       <option name="closed" value="true" />
@@ -226,7 +249,39 @@
       <option name="project" value="LOCAL" />
       <updated>1752613479007</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Progress updated">
+      <option name="closed" value="true" />
+      <created>1758478031242</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1758478031242</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Progress updated">
+      <option name="closed" value="true" />
+      <created>1763213728523</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1763213728523</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Progress updated">
+      <option name="closed" value="true" />
+      <created>1763213997947</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1763213997947</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Progress updated">
+      <option name="closed" value="true" />
+      <created>1763215502706</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1763215502706</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -267,7 +322,19 @@
         </entry>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -276,10 +343,19 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit message" />
     <MESSAGE value="Progress updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="Progress updated" />
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
     <select />
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
   </component>
 </project>
