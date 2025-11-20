@@ -4,9 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6980afb7-8517-4749-b466-beb2e9f24a4d" name="Changes" comment="Initial commit">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="6980afb7-8517-4749-b466-beb2e9f24a4d" name="Changes" comment="gitignore updated">
+      <change afterPath="$PROJECT_DIR$/Java_Project/src/Stacks/ArrayImplementation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_Project/src/Stacks/BalancedParanthesis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_Project/src/Stacks/InsertElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_Project/src/Stacks/LLImplementation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_Project/src/Stacks/NextGreaterElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_Project/src/Stacks/RemoveConsecutiveSubsequences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_Project/src/Stacks/ReverseOrder.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_Project/src/Stacks/CF.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Project/src/Stacks/CF.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_Project/src/Stacks/Reverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Project/src/Stacks/Reverse.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +29,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Telusko/Quiz-Console-App" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -58,8 +66,10 @@
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Application.Abstraction.executor": "Run",
+    "Application.ArrayImplementation.executor": "Run",
     "Application.ArrayList.executor": "Run",
     "Application.BAsics.executor": "Run",
+    "Application.BalancedParanthesis.executor": "Run",
     "Application.Bank.executor": "Run",
     "Application.Basics.executor": "Run",
     "Application.Binary_Search.executor": "Run",
@@ -79,12 +89,15 @@
     "Application.FirstLastPosnofElemnt.executor": "Run",
     "Application.HappyNumber.executor": "Run",
     "Application.Inheritance.executor": "Run",
+    "Application.InsertElement.executor": "Run",
     "Application.Interfaces.executor": "Run",
+    "Application.LLImplementation.executor": "Run",
     "Application.Lambda.executor": "Run",
     "Application.ListNodeClass.executor": "Run",
     "Application.LowerBound.executor": "Run",
     "Application.Methods.executor": "Run",
     "Application.Need_for_Interfaces.executor": "Run",
+    "Application.NextGreaterElement.executor": "Run",
     "Application.Operations.executor": "Run",
     "Application.Optional.executor": "Run",
     "Application.Optional_class.executor": "Run",
@@ -98,8 +111,10 @@
     "Application.Random.executor": "Run",
     "Application.RandomNos.executor": "Run",
     "Application.Reference.executor": "Run",
+    "Application.RemoveConsecutiveSubsequences.executor": "Run",
     "Application.RemoveNthNodeFromLast.executor": "Run",
     "Application.Reverse.executor": "Run",
+    "Application.ReverseOrder.executor": "Run",
     "Application.Runnables.executor": "Run",
     "Application.SecondLargestElement.executor": "Run",
     "Application.Singly.executor": "Run",
@@ -224,6 +239,8 @@
       <workItem from="1763214995303" duration="1035000" />
       <workItem from="1763216057050" duration="1159000" />
       <workItem from="1763217272415" duration="299000" />
+      <workItem from="1763217584862" duration="10715000" />
+      <workItem from="1763533458165" duration="9344000" />
     </task>
     <task id="LOCAL-00001" summary="Commit message">
       <option name="closed" value="true" />
@@ -281,7 +298,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763215502706</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="gitignore updated">
+      <option name="closed" value="true" />
+      <created>1763217642668</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1763217642668</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -328,7 +353,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="main" />
+                        <option value="master" />
                       </list>
                     </value>
                   </entry>
@@ -344,7 +369,8 @@
     <MESSAGE value="Commit message" />
     <MESSAGE value="Progress updated" />
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="gitignore updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="gitignore updated" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
