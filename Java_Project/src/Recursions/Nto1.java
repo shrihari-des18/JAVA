@@ -1,4 +1,4 @@
-package Java_Project.src.Recursions;
+package Recursions;
 import java.util.Scanner;
 public class Nto1 {
     public static void printnto1(int n){
