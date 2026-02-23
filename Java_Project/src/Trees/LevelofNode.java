@@ -25,4 +25,11 @@ public class LevelofNode {
         if(root == null) return 0;
         return 1 + Math.max(level(root.right), level(root.left));
     }
+    public static int diameter(Node root){
+        if(root == null) return 0;
+        int myD = level(root.right) + level(root.left);
+        int leftD = diameter(root.left);
+        int rightD = diameter  (root.right);
+        return Math.max(myD, Math.max(leftD,rightD));
+    }
 }
