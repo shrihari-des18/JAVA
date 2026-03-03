@@ -50,6 +50,8 @@ public class Traversals {
         preIter(a);
         System.out.print("PostIter :");
         postIter(a);
+        System.out.print("InIter :");
+        inIter(a);
     }
     public static void preorder(Node root){
         if(root == null) return;
@@ -127,5 +129,23 @@ public class Traversals {
         }
         System.out.println(ans.reversed());
 
+    }
+    public static void inIter(Node root){
+        List<Integer> ans = new ArrayList<>();
+        Stack<Node> st = new Stack<>();
+        Node temp = root;
+        while(true){
+            if(temp != null){
+                st.push(temp);
+                temp = temp.left;
+            }
+            else{
+                if(st.isEmpty()) break;
+                Node top = st.pop();
+                ans.add(top.val);
+                temp = top.right;
+            }
+        }
+        System.out.println(ans);
     }
 }
