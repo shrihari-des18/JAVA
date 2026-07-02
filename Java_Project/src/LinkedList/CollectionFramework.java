@@ -2,7 +2,7 @@ package LinkedList;
 import java.util.*;
 public class CollectionFramework {
     public static void main(String[] args) {
-        LinkedList<String> list = new LinkedList<String>();
+        LinkedList<String> list = new LinkedList<>();
 
         list.addFirst("hi");
         list.addFirst("hello");
@@ -16,7 +16,7 @@ public class CollectionFramework {
         System.out.println();
 //        list.removeFirst();
 //        list.removeLast();
-        System.out.println(list);
+//        System.out.println(list);
 
         list.remove(2);
         System.out.println(list);
